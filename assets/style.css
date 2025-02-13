@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body {
+    background-color: #f9ffef;
+}
+
+H1 {
+    color: #006600;
+    font-size: 42px;
+    ;
+}
+
+H2 {
+    color: #008a00;
+    font-size: 25px;
+}
+
+DIV {
+    color: #4ea93b;
+    font-size: 17px;
+}
+
+.Dropdown {
+    margin: 20px auto;
+}
+
+.Graph {
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 20px;
+}
