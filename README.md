@@ -1,5 +1,5 @@
 # Dashboard em Python 📊
-Neste projeto, desenvolvi um dashboard utilizando as bibliotecas Dash e Ploty em Python, focando na criação de gráficos interativos. A biblioteca **Ploty** é uma ferramenta poderosa para visualização de dados, permitindo a construção de gráficos dinâmicos e informativos. O **Dash**, por sua vez, é uma extensão do Ploty que possibilita a criação de aplicações web interativas, onde gráficos podem interagir com diversos componentes, como botões, caixas de seleção e listas de valores.
+Neste projeto, desenvolvi um dashboard utilizando as bibliotecas Dash e Ploty em Python, focando na criação de gráficos interativos. A biblioteca **Plotly** é uma ferramenta poderosa para visualização de dados, permitindo a construção de gráficos dinâmicos e informativos. O **Dash**, por sua vez, é uma extensão do Ploty que possibilita a criação de aplicações web interativas, onde gráficos podem interagir com diversos componentes, como botões, caixas de seleção e listas de valores.
 
 <div>
 <img src="assets/faturamentodaslojas_.png" width="750px" />
@@ -23,7 +23,7 @@ Com esse projeto de Dashboard com Python, será possível acompanhar a quantidad
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
-    <td> <b>Ploty:</b> Biblioteca para criação de gráficos interativos.</td>
+    <td> <b>Plotly:</b> Biblioteca para criação de gráficos interativos.</td>
   </thead>
   <tbody>
     <thead>
