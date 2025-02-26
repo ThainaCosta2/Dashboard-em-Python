@@ -10,7 +10,7 @@ Com esse projeto de Dashboard com Python, será possível acompanhar a quantidad
 <div>
   <ul>
     <li>O usuário poderá acessar o dashboard via navegador, após execução do código no VSCode.
-    <li>A aplicação integra dados de planilha do Excel, permitindo a leitura e manipulação eficiente das informações. 
+    <li>A aplicação integra dados da planilha do Excel, permitindo a leitura e manipulação eficiente das informações. 
     <li>No dashboard, os usuários encontrará o gráfico que apresentam o faturamento das lojas, com a opção de visualizar e analisar cada loja individualmente.
     <li>Além disso, a aplicação oferece recursos adicionais, como filtragem de dados e análises mais detalhadas, proporcionando uma experiência completa na exploração das informações.      
     </li>  
