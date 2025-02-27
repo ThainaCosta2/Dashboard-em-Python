@@ -3,7 +3,7 @@ Neste projeto, desenvolvi um dashboard utilizando as bibliotecas Dash e Plotly e
 
 https://github.com/user-attachments/assets/735e882b-e571-4e83-9b87-92cdaeaf7c08
 
-# Sobre o Projeto 📈 
+# Sobre o Projeto 📉
 Com esse projeto de Dashboard com Python, será possível acompanhar a quantidade de produtos vendidos, com ênfase na criação de um gráfico dinâmico que permitem a interação do usuário. A aplicação oferece uma experiência visual atrativa, facilitando a análise e interpretação dos dados de forma intuitiva.
 
 # Como Funciona 📌
@@ -17,7 +17,7 @@ Com esse projeto de Dashboard com Python, será possível acompanhar a quantidad
   </ul>
 </div>
 
-# Tecnologias 💻
+# Tecnologias 👩‍💻
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
